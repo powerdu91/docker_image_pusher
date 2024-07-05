@@ -1,6 +1,7 @@
 nginx
 nginx:1.24.0
 nginx:1.23.0
+agilestacks/fluentd-elasticsearch:v1.3.0
 busybox
 hello-world
 #支持私库
