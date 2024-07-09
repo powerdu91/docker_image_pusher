@@ -1,6 +1,7 @@
 docker.io/calico/cni:v3.28.0
 docker.io/calico/node:v3.28.0
 docker.io/calico/kube-controllers:v3.28.0
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
 nginx
 nginx:1.24.0
 nginx:1.23.0
