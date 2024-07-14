@@ -1,6 +1,6 @@
-registry.k8s.io/ingress-nginx/controller
-registry.k8s.io/ingress-nginx/opentelemetry
-registry.k8s.io/ingress-nginx/kube-webhook-certgen
+registry.k8s.io/ingress-nginx/controller:v1.11.0
+registry.k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
 #registry.k8s.io/defaultbackend-amd64
 
 
