@@ -1,5 +1,6 @@
+gcr.io/k8s-staging-sig-storage/nfs-subdir-external-provisioner:v4.0.0
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.0
+#registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.0
 #alpine
 #registry.k8s.io/ingress-nginx/controller:v1.11.0
 #registry.k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5
