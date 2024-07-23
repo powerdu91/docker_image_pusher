@@ -1,4 +1,6 @@
-gcr.io/k8s-staging-sig-storage/nfs-subdir-external-provisioner:v4.0.0
+bitnami/redis:7.2.5-debian-12-r2
+
+#gcr.io/k8s-staging-sig-storage/nfs-subdir-external-provisioner:v4.0.0
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.0
 #alpine
