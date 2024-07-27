@@ -1,4 +1,6 @@
-docker.io/kubeimages/kibana:7.9.3
+registry.k8s.io/ingress-nginx/controller:v1.11.0
+
+#docker.io/kubeimages/kibana:7.9.3
 #docker.io/kubeimages/filebeat:7.9.3
 #docker.io/kubeimages/logstash:7.9.3
 #docker.io/library/elasticsearch:7.9.3
