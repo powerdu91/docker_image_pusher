@@ -3,9 +3,9 @@ kong/kubernetes-ingress-controller:3.1
 kong/kubernetes-ingress-controller:3.0
 kong/kong-gateway:3.4.0.0
 kennethreitz/httpbin
-registry.k8s.io/ingress-nginx/opentelemetry
-registry.k8s.io/ingress-nginx/kube-webhook-certgen
-registry.k8s.io/ingress-nginx/controller
+registry.k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
+registry.k8s.io/ingress-nginx/controller:v1.10.1
 docker.io/bitnami/postgresql:13.11.0-debian-11-r20
 curlimages/curl
 
