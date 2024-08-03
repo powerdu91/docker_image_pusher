@@ -1,5 +1,5 @@
-busybox:latest
-#opensearchproject/opensearch:2.6.0
+#busybox:latest
+opensearchproject/opensearch:2.6.0
 #kubesphere/ks-installer:v3.4.0
 #kubesphere/ks-installer:v3.4.1
 #openebs/node-disk-manager:2.1.0
