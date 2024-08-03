@@ -1,4 +1,4 @@
-dduportal/bats:0.4.0
+#dduportal/bats:0.4.0
 docker.elastic.co/elasticsearch/elasticsearch-oss:6.8.6
 #busybox:latest
 #opensearchproject/opensearch:2.6.0
