@@ -1,5 +1,5 @@
-#dduportal/bats:0.4.0
-docker.elastic.co/elasticsearch/elasticsearch-oss:6.8.6
+docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+#docker.elastic.co/elasticsearch/elasticsearch-oss:6.8.6
 #busybox:latest
 #opensearchproject/opensearch:2.6.0
 #kubesphere/ks-installer:v3.4.0
