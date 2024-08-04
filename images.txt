@@ -1,4 +1,5 @@
-postgres:14.2
+sonarqube
+#postgres:14.2
 #kubesphere/ks-controller-manager:v3.4.0
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.3
 #docker.elastic.co/elasticsearch/elasticsearch-oss:6.8.6
