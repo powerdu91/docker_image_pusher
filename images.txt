@@ -1,5 +1,5 @@
-apache/rocketmq:4.9.4
-
+#apache/rocketmq:4.9.4
+apacherocketmq/rocketmq-dashboard:1.0.0
 #docker.io/bitnami/redis:7.2.5-debian-12-r4
 #docker.io/bitnami/redis-sentinel:7.2.5-debian-12-r4
 #docker.io/bitnami/redis-exporter:1.62.0-debian-12-r2
