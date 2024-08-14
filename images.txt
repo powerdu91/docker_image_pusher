@@ -1,4 +1,5 @@
-mongo:2.2.7
+mongodb/mongodb-community-server:4.4.20-ubuntu2004-20230514T053438Z
+#mongo:2.2.7
 elasticsearch:7.17.9
 
 #nacos/nacos-server:2.0.3
