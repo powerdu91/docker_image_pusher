@@ -1,5 +1,6 @@
 mongo:2.2.7
 elasticsearch:7.17.9
+
 #nacos/nacos-server:2.0.3
 #mysql:5.7.33
 #registry.cn-shenzhen.aliyuncs.com/jbjb/csi:xtrabackup-1.0
