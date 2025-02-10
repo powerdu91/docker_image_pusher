@@ -1,4 +1,5 @@
-nyanmisaka/jellyfin:latest
+mysql:8.0
+#nyanmisaka/jellyfin:latest
 #bitnami/kafka:3.5.1
 
 #mongodb/mongodb-community-server:4.4.20-ubuntu2004-20230514T053438Z
