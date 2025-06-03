@@ -1,4 +1,10 @@
-postgres:13
+ghcr.io/docspell/restserver:latest
+ghcr.io/docspell/joex:latest
+docspell/dsc:latest
+postgres:17.5
+solr:9
+
+#postgres:13
 #epoberezkin/docspell
 #b3log/siyuan:latest
 #openim/openim-web-front:release-v3.8.1
