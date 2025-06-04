@@ -1,6 +1,8 @@
-docker.io/library/redis:8
-docker.io/library/mariadb:11
-ghcr.io/paperless-ngx/paperless-ngx:latest
+docker.io/gotenberg/gotenberg:8.20
+docker.io/apache/tika:latest
+#docker.io/library/redis:8
+#docker.io/library/mariadb:11
+#ghcr.io/paperless-ngx/paperless-ngx:latest
 
 #ghcr.io/docspell/restserver:latest
 #ghcr.io/docspell/joex:latest
