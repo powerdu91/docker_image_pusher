@@ -1,8 +1,12 @@
-ghcr.io/docspell/restserver:latest
-ghcr.io/docspell/joex:latest
-docspell/dsc:latest
-postgres:17.5
-solr:9
+docker.io/library/redis:8
+docker.io/library/mariadb:11
+ghcr.io/paperless-ngx/paperless-ngx:latest
+
+#ghcr.io/docspell/restserver:latest
+#ghcr.io/docspell/joex:latest
+#docspell/dsc:latest
+#postgres:17.5
+#solr:9
 
 #postgres:13
 #epoberezkin/docspell
